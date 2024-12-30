@@ -1,2 +1,3 @@
 # Finished files from Maximilian Schwarzmüller's React course in Udmey.
-# This respositry just for learning purpose.
+
+# This repository just for learning purpose.
