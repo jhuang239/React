@@ -1,1 +1,25 @@
-{"events":[{"title":"test123456","image":"https://www.directivegroup.com/wp-content/uploads/2017/03/smile-9047-9380-hd-wallpapers-1.jpg","date":"2024-12-27","description":"test456","id":"98c7ab10-cc25-4746-8085-d1100ce19579"},{"title":"HAHA","image":"https://www.directivegroup.com/wp-content/uploads/2017/03/smile-9047-9380-hd-wallpapers-1.jpg","date":"2024-12-28","description":"HAHA1234","id":"79d461bd-193e-4b2d-b7a6-b1fcad57091f"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
+{
+  "events": [
+    {
+      "title": "test123456",
+      "image": "https://www.directivegroup.com/wp-content/uploads/2017/03/smile-9047-9380-hd-wallpapers-1.jpg",
+      "date": "2024-12-27",
+      "description": "test456",
+      "id": "98c7ab10-cc25-4746-8085-d1100ce19579"
+    },
+    {
+      "title": "HAHA",
+      "image": "https://www.directivegroup.com/wp-content/uploads/2017/03/smile-9047-9380-hd-wallpapers-1.jpg",
+      "date": "2024-12-28",
+      "description": "HAHA1234",
+      "id": "79d461bd-193e-4b2d-b7a6-b1fcad57091f"
+    },
+    {
+      "id": "e1",
+      "title": "A dummy event",
+      "date": "2023-02-22",
+      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
+      "description": "Join this amazing event and connect with fellow developers."
+    }
+  ]
+}
